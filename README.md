@@ -2,7 +2,7 @@ Hello!
 
 
 
-- What you need to know about me :
+## What you need to know about me :
 
 I'm a high school student aspiring to work in Robotics and Aerospace.
 
@@ -10,7 +10,7 @@ I'm interested in several domains, notably robotics, aerospace engineering, rock
 
 I've self taught myself nearly all of the knowledge I apply in my projects
 
-- Languages:
+## Languages:
 
 Fluent in English, French, Spanish
 
@@ -18,7 +18,7 @@ Can communicate on a basic level in German.
 
 
 
-- My skills:
+## My skills:
 
 CAD - Fusion360, FreeCAD, SolidWorks
 
@@ -36,13 +36,13 @@ Capable of analysing datasheets and making my own PCBS (see RP2040-SM-PCB)
 
 
 
-- Coding :
+## Coding :
 
 I code in C++ mostly but I adapt to other coding languages pretty easily
 
 
 
-- Competions:
+## Competions:
 
 Participated in the French olymipades de SI (engineering) as a group of 4 in 2025 and won a runner up prize of most enviromentally friendly project despite logistical problems and tech failures
 
