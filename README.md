@@ -36,7 +36,8 @@ Capable of analysing datasheets and making my own PCBS (see RP2040-SM-PCB)
 
 
 
-- Coding : 
+- Coding :
+
 I code in C++ mostly but I adapt to other coding languages pretty easily
 
 
