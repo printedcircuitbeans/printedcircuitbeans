@@ -10,10 +10,10 @@ Fluent in English, French, Spanish
 Can communicate on a basic level in German.
 
 - My skills:
-CAD - Fusion360, FreeCAD, SolidWorks
-EDA - EasyEDA, Alitum Circuitmaker
-3D printing - Nearly 6 years of experience
-Sheetmetal forming and cutting
+-CAD - Fusion360, FreeCAD, SolidWorks
+-EDA - EasyEDA, Alitum Circuitmaker
+-3D printing - Nearly 6 years of experience
+-Sheetmetal forming and cutting
 
 Strong microsoldering and soldering skills, PCB rework
 Good at problem solving and reverse engineering (As well as coming up with my own ideas)
