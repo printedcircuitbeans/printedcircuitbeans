@@ -22,7 +22,7 @@ Basic level in German.
 
 ## My skills:
 
-CAD - Fusion360, FreeCAD, SolidWorks
+CAD - Fusion360, FreeCAD, SolidWorks, OnShape
 
 EDA - EasyEDA, Alitum Circuitmaker
 
