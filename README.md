@@ -28,13 +28,13 @@ EDA - EasyEDA, Alitum Circuitmaker
 
 3D printing - Nearly 6 years of experience - And DFM with FDM technology (see Desktop-Robot-Arm)
 
-Sheetmetal forming and cutting (see Desktop-Laptop)
+Sheetmetal forming and cutting ([Desktop-Laptop](https://github.com/MiscellaneousEngineer/Desktop-Laptop))
 
 Strong microsoldering and soldering skills, PCB rework
 
 Good at creative problem solving and reverse engineering
 
-Capable of analysing datasheets, selection and optimization of components for PCBs, as well as PCB layout (see RP2040-SM-PCB)
+Capable of analysing datasheets, selection and optimization of components for PCBs, as well as PCB layout ([RP2040-SM-PCB](https://github.com/MiscellaneousEngineer/RP2040-SM-PCB))
 
 
 
@@ -48,4 +48,4 @@ I code in C++ mostly but I adapt to other coding languages pretty easily
 
 Participated in the French olymipades de SI (engineering) as a group of 4 in 2025 and won a runner up prize of most enviromentally friendly project despite logistical problems and tech failures
 
-We're going to the same competion again, this time hoping to get to the nationals (see OSI-2026-Trash-Sorter)
+We're going to the same competion again, this time hoping to get to the nationals ([OSI-2026-Trash-Sorter](https://github.com/MiscellaneousEngineer/OSI-2026-Trash-sorter))
