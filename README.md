@@ -8,7 +8,7 @@ I'm a high school student aspiring to work in Robotics and Aerospace.
 
 I'm interested in several domains, notably robotics, aerospace engineering, rocketry, embedded system design and automation.
 
-I've self learnt nearly all of the knowledge I apply in my projects
+I've self taught nearly all of the knowledge I apply in my projects
 
 I have successfuly completed several personal projects independently ( see my repositories )
 
